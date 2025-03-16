@@ -1,0 +1,25 @@
+/* html */
+html {
+  font-size: 16px;
+}
+
+/* body */
+body {
+  font-size: 1rem;
+  background-color: #c4c4c4;
+}
+
+/* header */
+header {
+  width: 100%;
+  min-height: 70px;
+  padding: 1.5rem;
+  color: #fff;
+  background-color: #333;
+  text-align: center;
+}
+
+/* main */
+
+/* footer */
+
